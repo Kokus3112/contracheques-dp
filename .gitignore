@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+lotes/
+envios.jsonl
+*.pdf
+*.xlsx
+*.csv
+.env
